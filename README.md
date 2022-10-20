@@ -1,2 +1,2 @@
-# printf
-Collaborative project on printf
+This is a team project. _printf replicates the C standard library printf() function
+
